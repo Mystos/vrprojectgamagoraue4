@@ -8,8 +8,8 @@
 		{
 			"sources": [
 				{
-					"mode": "button",
-					"path": "/user/hand/right/input/a",
+					"mode": "trigger",
+					"path": "/user/hand/right/input/trigger",
 					"inputs":
 					{
 						"click":
@@ -19,8 +19,8 @@
 					}
 				},
 				{
-					"mode": "button",
-					"path": "/user/hand/left/input/x",
+					"mode": "trigger",
+					"path": "/user/hand/left/input/trigger",
 					"inputs":
 					{
 						"click":
